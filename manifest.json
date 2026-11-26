@@ -10,15 +10,15 @@
   "theme_color": "#15803d",
   "icons": [
     {
-      "src": "./logo-hkti.jpg",
+      "src": "./icon.png",
       "sizes": "192x192",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./logo-hkti.jpg",
+      "src": "./icon.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
