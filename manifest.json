@@ -1,0 +1,25 @@
+{
+  "name": "Sistem Manajemen Data HKTI DPC Kabupaten Asmat",
+  "short_name": "HKTI Asmat",
+  "description": "Basis Data Operasional Tani, Peternak & Nelayan 25 Distrik Kabupaten Asmat",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "./logo-hkti.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo-hkti.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
